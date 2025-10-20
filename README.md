@@ -161,7 +161,7 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-<!-- IMPORTANT: GitHub blocks inline <svg>. Use a file and reference it. -->
+<!-- GitHub blocks inline <svg>; use a file -->
 <img src="./assets/github-stats-card.svg" width="914" height="390" alt="ShaylinGovender's GitHub Stats" />
 
 </div>
