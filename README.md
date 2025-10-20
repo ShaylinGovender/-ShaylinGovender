@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shaylin+Govender+%F0%9F%91%8B" alt="Typing SVG" />
+# Hi there, I'm Shaylin Govender <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### 💻 Full-Stack Software Engineer | 🚀 Technology Enthusiast | ✨ Creative Problem Solver
 
@@ -136,7 +136,7 @@ I bring strong leadership, clear communication, and a proven track record of del
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/refs/heads/main/Documentation/Images/TG%20logo.png" alt="Traffic Guardian" width="200"/>
+<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/main/assets/TrafficGuardianLogo1_Light.PNG" alt="Traffic Guardian" width="200"/>
 <br><br><b>Traffic Guardian</b>
 </td>
 <td>
@@ -161,32 +161,7 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 ## 📈 GitHub Stats
 
-<table style="border: 2px solid #00BFFF; border-radius: 10px; background-color: #1a1a2e; padding: 20px;">
-<tr>
-<td style="padding: 20px;">
-
-### <span style="color: #00BFFF;">Shaylin Govender's GitHub Stats</span>
-
-⭐ **Total Stars Earned:** 0
-
-⏱️ **Total Commits (last year):** 406
-
-🔀 **Total PRs:** 39
-
-⚠️ **Total Issues:** 55
-
-📦 **Contributed to (last year):** 2
-
-</td>
-<td align="center" style="padding: 20px;">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="120" style="border-radius: 50%; border: 3px solid #00BFFF; padding: 10px; background-color: white;"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShaylinGovender&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShaylinGovender&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Shaylin%20Govender's%20GitHub%20Stats&icon_color=00BFFF&text_color=00BFFF&bg_color=2D2D44&title_color=00BFFF" alt="GitHub Stats" />
 
 </div>
 
