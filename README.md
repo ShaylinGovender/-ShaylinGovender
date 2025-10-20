@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Shaylin Govender
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Shaylin+Govender+%F0%9F%91%8B" alt="Typing SVG" />
 
 ### 💻 Full-Stack Software Engineer | 🚀 Technology Enthusiast | ✨ Creative Problem Solver
 
@@ -17,20 +17,32 @@
 
 ---
 
+<div align="center">
+
 ## 🌟 About Me
 
-Full-stack software engineer with a passion for **technology**, **innovation**, and **creativity**. I bring strong leadership, clear communication, and a proven track record of delivery to every project I undertake.
+</div>
+
+<div align="center">
+
+Full-stack software engineer with a passion for **technology**, **innovation**, and **creativity**.  
+I bring strong leadership, clear communication, and a proven track record of delivery to every project I undertake.
 
 🔭 **Currently Exploring:** Cutting-edge web technologies and AI integration  
 🌱 **Always Learning:** New frameworks, languages, and best practices  
 💡 **Philosophy:** Clean code, scalable solutions, and user-centric design  
 🎯 **Goal:** Building impactful software that makes a difference
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠️ Technology Stack
 
 ### 💻 Programming Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,8 +54,10 @@ Full-stack software engineer with a passion for **technology**, **innovation**, 
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
 
 ### 🎨 Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -51,11 +65,24 @@ Full-stack software engineer with a passion for **technology**, **innovation**, 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ### ⚙️ Backend Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
+### ☁️ DevOps & Cloud
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
 ### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -63,13 +90,18 @@ Full-stack software engineer with a passion for **technology**, **innovation**, 
 ![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
 
 ### 📱 Mobile Development
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/Hybrid_Apps-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### 🤖 AI & Machine Learning
+
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### 🔧 Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -78,14 +110,20 @@ Full-stack software engineer with a passion for **technology**, **innovation**, 
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square)
 
 ### 🎨 Creative Tools
+
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat-square)
 ![Video Editing](https://img.shields.io/badge/Video_Editing-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Photography Editing](https://img.shields.io/badge/Photo_Editing-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
 ### 📊 Office & Productivity
+
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌟 Featured Project
 
@@ -98,63 +136,63 @@ Full-stack software engineer with a passion for **technology**, **innovation**, 
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/main/.github/assets/logo.png" alt="Traffic Guardian" width="150"/>
-<br><b>Traffic Guardian</b>
+<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/refs/heads/main/Documentation/Images/TG%20logo.png" alt="Traffic Guardian" width="200"/>
+<br><br><b>Traffic Guardian</b>
 </td>
 <td>
 AWS-based system for real-time traffic monitoring and AI-driven incident detection.
 </td>
 <td align="center">
 <a href="https://github.com/COS301-SE-2025/Traffic-Guardian">
-<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+<b>GitHubRepo</b>
 </a>
 </td>
 <td>
-Python, GitHub Actions, PostgreSQL, Real-Time APIs, AWS
+Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js, GitHub Actions, Azure DevOps, Terraform, AWS, Real-Time APIs
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 📈 GitHub Stats
+---
 
 <div align="center">
 
-### Shaylin Govender's GitHub Stats
+## 📈 GitHub Stats
 
-<table>
+<table style="border: 2px solid #00BFFF; border-radius: 10px; background-color: #1a1a2e; padding: 20px;">
 <tr>
-<td>
+<td style="padding: 20px;">
 
-⭐ **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/ShaylinGovender?style=flat-square&label=)
+### <span style="color: #00BFFF;">Shaylin Govender's GitHub Stats</span>
 
-⏱️ **Total Commits (last year):** ![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=total&url=https://github-readme-stats.vercel.app/api?username=ShaylinGovender&show_icons=true)
+⭐ **Total Stars Earned:** 0
 
-🔀 **Total PRs:** ![PRs](https://img.shields.io/github/issues-pr/ShaylinGovender/ShaylinGovender?style=flat-square&label=)
+⏱️ **Total Commits (last year):** 406
 
-⚠️ **Total Issues:** ![Issues](https://img.shields.io/github/issues/ShaylinGovender/ShaylinGovender?style=flat-square&label=)
+🔀 **Total PRs:** 39
 
-📦 **Contributed to (last year):** Multiple Projects
+⚠️ **Total Issues:** 55
+
+📦 **Contributed to (last year):** 2
 
 </td>
-<td>
-<img src="https://github.com/ShaylinGovender.png" alt="GitHub Profile" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"/>
+<td align="center" style="padding: 20px;">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="120" style="border-radius: 50%; border: 3px solid #00BFFF; padding: 10px; background-color: white;"/>
 </td>
 </tr>
 </table>
 
 <br>
 
-![Shaylin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaylinGovender&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaylinGovender&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaylinGovender&theme=tokyonight&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShaylinGovender&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 🏆 Leadership & Delivery
 
@@ -163,11 +201,13 @@ Python, GitHub Actions, PostgreSQL, Real-Time APIs, AWS
 🎯 **Track Record of Delivery**: Consistently shipping quality software on time  
 🚀 **Innovation Driven**: Always exploring new technologies and methodologies
 
+</div>
+
 ---
 
-## 📫 Let's Connect!
-
 <div align="center">
+
+## 📫 Let's Connect!
 
 I'm always interested in connecting with fellow developers, tech enthusiasts, and potential collaborators!
 
