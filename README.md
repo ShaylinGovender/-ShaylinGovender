@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Shaylin Govender <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaylin+Govender+%F0%9F%91%8B" alt="Typing SVG" />
 
 ### 💻 Full-Stack Software Engineer | 🚀 Technology Enthusiast | ✨ Creative Problem Solver
 
@@ -76,8 +76,6 @@ I bring strong leadership, clear communication, and a proven track record of del
 
 ### ☁️ DevOps & Cloud
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
@@ -136,8 +134,7 @@ I bring strong leadership, clear communication, and a proven track record of del
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/main/assets/TrafficGuardianLogo1_Light.PNG" alt="Traffic Guardian" width="200"/>
-<br><br><b>Traffic Guardian</b>
+<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/main/assets/TrafficGuardianLogo1_Light.PNG" alt="Traffic Guardian" width="300"/>
 </td>
 <td>
 AWS-based system for real-time traffic monitoring and AI-driven incident detection.
@@ -148,7 +145,7 @@ AWS-based system for real-time traffic monitoring and AI-driven incident detecti
 </a>
 </td>
 <td>
-Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js, GitHub Actions, Azure DevOps, Terraform, AWS, Real-Time APIs
+Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js, GitHub Actions, AWS, Real-Time APIs
 </td>
 </tr>
 </table>
@@ -161,7 +158,16 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShaylinGovender&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Shaylin%20Govender's%20GitHub%20Stats&icon_color=00BFFF&text_color=00BFFF&bg_color=2D2D44&title_color=00BFFF" alt="GitHub Stats" />
+<table>
+<tr>
+<td>
+<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=ShaylinGovender&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&border_radius=10&custom_title=Shaylin%20Govender's%20GitHub%20Stats&icon_color=00BFFF&text_color=00BFFF&bg_color=1a1a2e&title_color=00BFFF&rank_icon=github" alt="stats graph"  />
+</td>
+<td>
+<img src="https://github.com/ShaylinGovender.png" alt="GitHub Profile" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"/>
+</td>
+</tr>
+</table>
 
 </div>
 
