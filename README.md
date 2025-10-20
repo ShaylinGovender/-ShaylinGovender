@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaylin+Govender+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=+++Hi+there%2C+I'm+Shaylin+Govender+%F0%9F%91%8B" alt="Typing SVG" />
 
 ### 💻 Full-Stack Software Engineer | 🚀 Technology Enthusiast | ✨ Creative Problem Solver
 
@@ -134,7 +134,7 @@ I bring strong leadership, clear communication, and a proven track record of del
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/main/assets/TrafficGuardianLogo1_Light.PNG" alt="Traffic Guardian" width="300"/>
+<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/main/assets/TrafficGuardianLogo1_Light.PNG" alt="Traffic Guardian" width="400"/>
 </td>
 <td>
 AWS-based system for real-time traffic monitoring and AI-driven incident detection.
@@ -158,16 +158,9 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 ## 📈 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=ShaylinGovender&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&border_radius=10&custom_title=Shaylin%20Govender's%20GitHub%20Stats&icon_color=00BFFF&text_color=00BFFF&bg_color=1a1a2e&title_color=00BFFF&rank_icon=github" alt="stats graph"  />
-</td>
-<td>
-<img src="https://github.com/ShaylinGovender.png" alt="GitHub Profile" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"/>
-</td>
-</tr>
-</table>
+<a href="https://github.com/ShaylinGovender">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaylinGovender&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&hide_rank=true&custom_title=Shaylin%20Govender's%20GitHub%20Stats" width="600px" alt="Shaylin's GitHub Stats"/>
+</a>
 
 </div>
 
