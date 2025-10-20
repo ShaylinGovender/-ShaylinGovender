@@ -161,8 +161,34 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-<!-- GitHub blocks inline <svg>; use a file -->
-<img src="./assets/github-stats-card.svg" width="914" height="390" alt="ShaylinGovender's GitHub Stats" />
+<table>
+<tr>
+<td align="center">
+
+### 💫 Shaylin Govender's GitHub Stats
+
+<table>
+<tr>
+<td>
+
+```yaml
+⭐ Total Stars Earned:          0
+⏱️  Total Commits (last year):  406
+🔀 Total PRs:                   39
+⚠️  Total Issues:                55
+📦 Contributed to (last year):  2
+```
+
+</td>
+<td align="center" width="200">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="120" style="border-radius: 50%;"/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 </div>
 
