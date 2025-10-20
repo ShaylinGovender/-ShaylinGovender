@@ -1,11 +1,17 @@
-# Hi there, I'm Shaylin Govender 👋
-
 <div align="center">
-  
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Shaylin Govender
+
 ### 💻 Full-Stack Software Engineer | 🚀 Technology Enthusiast | ✨ Creative Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/shaylin-govender-827347343)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShaylinGovender)
+<br>
+
+<a href="http://www.linkedin.com/in/shaylin-govender-827347343">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ShaylinGovender">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -81,15 +87,70 @@ Full-stack software engineer with a passion for **technology**, **innovation**, 
 
 ---
 
+## 🌟 Featured Project
+
+<table>
+<tr>
+<th>Project</th>
+<th>Overview</th>
+<th>Link</th>
+<th>Technologies</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/COS301-SE-2025/Traffic-Guardian/main/.github/assets/logo.png" alt="Traffic Guardian" width="150"/>
+<br><b>Traffic Guardian</b>
+</td>
+<td>
+AWS-based system for real-time traffic monitoring and AI-driven incident detection.
+</td>
+<td align="center">
+<a href="https://github.com/COS301-SE-2025/Traffic-Guardian">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+</a>
+</td>
+<td>
+Python, GitHub Actions, PostgreSQL, Real-Time APIs, AWS
+</td>
+</tr>
+</table>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![Shaylin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaylinGovender&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaylinGovender&layout=compact&theme=radical&hide_border=true)
+### Shaylin Govender's GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaylinGovender&theme=radical&hide_border=true)
+<table>
+<tr>
+<td>
+
+⭐ **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/ShaylinGovender?style=flat-square&label=)
+
+⏱️ **Total Commits (last year):** ![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=total&url=https://github-readme-stats.vercel.app/api?username=ShaylinGovender&show_icons=true)
+
+🔀 **Total PRs:** ![PRs](https://img.shields.io/github/issues-pr/ShaylinGovender/ShaylinGovender?style=flat-square&label=)
+
+⚠️ **Total Issues:** ![Issues](https://img.shields.io/github/issues/ShaylinGovender/ShaylinGovender?style=flat-square&label=)
+
+📦 **Contributed to (last year):** Multiple Projects
+
+</td>
+<td>
+<img src="https://github.com/ShaylinGovender.png" alt="GitHub Profile" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+![Shaylin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaylinGovender&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaylinGovender&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaylinGovender&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -106,16 +167,27 @@ Full-stack software engineer with a passion for **technology**, **innovation**, 
 
 ## 📫 Let's Connect!
 
+<div align="center">
+
 I'm always interested in connecting with fellow developers, tech enthusiasts, and potential collaborators!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shaylin-govender-827347343)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaylinGovender)
+<br>
+
+<a href="http://www.linkedin.com/in/shaylin-govender-827347343">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=200" alt="LinkedIn" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ShaylinGovender">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&width=200" alt="GitHub" height="50"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💡 "The best way to predict the future is to invent it." – Alan Kay
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaylinGovender&color=blueviolet&style=flat-square)
 
