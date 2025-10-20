@@ -109,6 +109,7 @@ I bring strong leadership, clear communication, and a proven track record of del
 
 ### 🎨 Creative Tools
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-0696D7?style=flat-square)
 ![Video Editing](https://img.shields.io/badge/Video_Editing-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Photography Editing](https://img.shields.io/badge/Photo_Editing-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
@@ -158,8 +159,20 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 ## 📈 GitHub Stats
 
+<br>
+
+### Shaylin Govender's GitHub Stats
+
+<sub>⭐ **Total Stars Earned:** 0</sub><br>
+<sub>⏱️ **Total Commits (last year):** 406</sub><br>
+<sub>🔀 **Total PRs:** 39</sub><br>
+<sub>⚠️ **Total Issues:** 55</sub><br>
+<sub>📦 **Contributed to (last year):** 2</sub>
+
+<br>
+
 <a href="https://github.com/ShaylinGovender">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaylinGovender&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&hide_rank=true&custom_title=Shaylin%20Govender's%20GitHub%20Stats" width="600px" alt="Shaylin's GitHub Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaylinGovender&theme=react-dark&hide_border=true&area=true" width="700px"/>
 </a>
 
 </div>
