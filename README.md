@@ -161,19 +161,19 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-### Shaylin Govender's GitHub Stats
-
-<sub>⭐ **Total Stars Earned:** 0</sub><br>
-<sub>⏱️ **Total Commits (last year):** 406</sub><br>
-<sub>🔀 **Total PRs:** 39</sub><br>
-<sub>⚠️ **Total Issues:** 55</sub><br>
-<sub>📦 **Contributed to (last year):** 2</sub>
-
-<br>
-
-<a href="https://github.com/ShaylinGovender">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaylinGovender&theme=react-dark&hide_border=true&area=true" width="700px"/>
-</a>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  Shaylin Govender's GitHub Stats                                        ║
+║                                                                          ║
+║  ⭐ Total Stars Earned:           0                                      ║
+║  ⏱️  Total Commits (last year):   406                                    ║
+║  🔀 Total PRs:                    39                                     ║
+║  ⚠️  Total Issues:                 55                                     ║
+║  📦 Contributed to (last year):   2                                      ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
