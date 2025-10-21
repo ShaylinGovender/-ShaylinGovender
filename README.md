@@ -161,33 +161,23 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-<img src="https://img.shields.io/badge/Shaylin%20Govender's%20GitHub%20Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Header"/>
-
-<br><br>
+### Shaylin Govender's GitHub Stats
 
 <table>
 <tr>
-<td width="600">
+<td>
 
-<br>
-
-<img src="https://img.shields.io/badge/★_Total_Stars_Earned-0-FFD700?style=flat-square&labelColor=1e1e2e&color=FFD700"/>
-
-<img src="https://img.shields.io/badge/⏱_Total_Commits_(last_year)-406-00BFFF?style=flat-square&labelColor=1e1e2e&color=00BFFF"/>
-
-<img src="https://img.shields.io/badge/⑂_Total_PRs-39-00BFFF?style=flat-square&labelColor=1e1e2e&color=00BFFF"/>
-
-<img src="https://img.shields.io/badge/⚠_Total_Issues-55-FFA500?style=flat-square&labelColor=1e1e2e&color=FFA500"/>
-
-<img src="https://img.shields.io/badge/⚇_Contributed_to_(last_year)-2-00BFFF?style=flat-square&labelColor=1e1e2e&color=00BFFF"/>
-
-<br>
+```text
+★  Total Stars Earned:             0
+⏱  Total Commits (last year):      406
+⑂  Total PRs:                      39
+⚠  Total Issues:                   55
+⚇  Contributed to (last year):     2
+```
 
 </td>
-<td width="150" align="center">
-
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub Logo"/>
-
+<td align="center">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub"/>
 </td>
 </tr>
 </table>
