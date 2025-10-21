@@ -161,32 +161,32 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-## Shaylin Govender's GitHub Stats
+## <span style="color: #00BFFF;">Shaylin Govender's GitHub Stats</span>
 
 <br>
 
 <table>
 <tr>
-<td width="550">
+<td width="600">
 
 <br>
 
-⭐ **Total Stars Earned:** `0`
+<span style="color: #FFD700;">★</span> <span style="color: #E0E0E0;">**Total Stars Earned:**</span> <span style="color: #00BFFF;">**0**</span>
 
-⏱️ **Total Commits (last year):** `406`
+<span style="color: #00BFFF;">⏱</span> <span style="color: #E0E0E0;">**Total Commits (last year):**</span> <span style="color: #00BFFF;">**406**</span>
 
-🔀 **Total PRs:** `39`
+<span style="color: #00BFFF;">⑂</span> <span style="color: #E0E0E0;">**Total PRs:**</span> <span style="color: #00BFFF;">**39**</span>
 
-⚠️ **Total Issues:** `55`
+<span style="color: #FFA500;">⚠</span> <span style="color: #E0E0E0;">**Total Issues:**</span> <span style="color: #00BFFF;">**55**</span>
 
-📦 **Contributed to (last year):** `2`
+<span style="color: #00BFFF;">⚇</span> <span style="color: #E0E0E0;">**Contributed to (last year):**</span> <span style="color: #00BFFF;">**2**</span>
 
 <br>
 
 </td>
-<td width="200" align="center">
+<td width="150" align="center">
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="GitHub Logo"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub Logo"/>
 
 </td>
 </tr>
