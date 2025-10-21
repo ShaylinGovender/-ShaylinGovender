@@ -163,25 +163,25 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <table>
 <tr>
-<td align="center" style="border: 2px solid #00BFFF; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1e1e2e 0%, #2d2d44 100%);">
+<td align="center">
 
-### <span style="color: #00BFFF;">Shaylin Govender's GitHub Stats</span>
+<h2><span style="color: #00BFFF;">Shaylin Govender's GitHub Stats</span></h2>
 
 <table>
 <tr>
-<td width="450" style="padding: 20px;">
+<td width="500" style="padding: 30px;">
 
-<p align="left">
-<span style="color: #FFD700;">★</span>  <span style="color: #00BFFF;">Total Stars Earned:</span> <span style="color: #ffffff;"><b>0</b></span><br>
-<span style="color: #00BFFF;">⏱</span>  <span style="color: #00BFFF;">Total Commits (last year):</span> <span style="color: #ffffff;"><b>406</b></span><br>
-<span style="color: #00BFFF;">⑂</span>  <span style="color: #00BFFF;">Total PRs:</span> <span style="color: #ffffff;"><b>39</b></span><br>
-<span style="color: #FFA500;">⚠</span>  <span style="color: #00BFFF;">Total Issues:</span> <span style="color: #ffffff;"><b>55</b></span><br>
-<span style="color: #00BFFF;">⚇</span>  <span style="color: #00BFFF;">Contributed to (last year):</span> <span style="color: #ffffff;"><b>2</b></span>
+<p align="left" style="font-size: 16px; line-height: 2;">
+<span style="color: #FFD700;">★</span>  <span style="color: #FFFFFF;">Total Stars Earned:</span> <span style="color: #00BFFF;"><b>0</b></span><br>
+<span style="color: #00BFFF;">⏱</span>  <span style="color: #FFFFFF;">Total Commits (last year):</span> <span style="color: #00BFFF;"><b>406</b></span><br>
+<span style="color: #00BFFF;">⑂</span>  <span style="color: #FFFFFF;">Total PRs:</span> <span style="color: #00BFFF;"><b>39</b></span><br>
+<span style="color: #FFA500;">⚠</span>  <span style="color: #FFFFFF;">Total Issues:</span> <span style="color: #00BFFF;"><b>55</b></span><br>
+<span style="color: #00BFFF;">⚇</span>  <span style="color: #FFFFFF;">Contributed to (last year):</span> <span style="color: #00BFFF;"><b>2</b></span>
 </p>
 
 </td>
-<td align="center" width="150" style="padding: 20px;">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="80" style="border: 3px solid #00BFFF; border-radius: 50%; padding: 10px; background-color: white;"/>
+<td align="center" width="180" style="padding: 30px;">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="100"/>
 </td>
 </tr>
 </table>
