@@ -161,17 +161,13 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-
 ### Shaylin Govender's GitHub Stats
 
 <table>
 <tr>
-<td>
+<td width="500">
 
-```javascript
+```
 ★  Total Stars Earned:             0
 ⏱  Total Commits (last year):      406
 ⑂  Total PRs:                      39
@@ -180,12 +176,8 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 ```
 
 </td>
-<td align="center" width="120">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="70" style="border-radius: 50%;"/>
-</td>
-</tr>
-</table>
-
+<td align="center" width="150">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="70"/>
 </td>
 </tr>
 </table>
