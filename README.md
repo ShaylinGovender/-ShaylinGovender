@@ -167,16 +167,18 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 <tr>
 <td>
 
-```text
-★  Total Stars Earned:             0
-⏱  Total Commits (last year):      406
-⑂  Total PRs:                      39
-⚠  Total Issues:                   55
-⚇  Contributed to (last year):     2
-```
+**★ Total Stars Earned: 0**
+
+**⏱ Total Commits (last year): 406**
+
+**⑂ Total PRs: 39**
+
+**⚠ Total Issues: 55**
+
+**⚇ Contributed to (last year): 2**
 
 </td>
-<td align="center">
+<td align="center" width="150">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub"/>
 </td>
 </tr>
