@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=+++Hi+there%2C+I'm+Shaylin+Govender+%F0%9F%91%8B" alt="Typing SVG" />
 
-### 💻 Full-Stack Software Engineer | 🚀 Technology Enthusiast | ✨ Creative Problem Solver
+### 💻 Full-Stack Software Engineer | 🚀 Technology Enthusiast | 💡 Problem Solver
 
 <br>
 
