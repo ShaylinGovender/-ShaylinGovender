@@ -199,27 +199,6 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 </div>
 
----
-
-<div align="center">
-
-## 📫 Let's Connect!
-
-I'm always interested in connecting with fellow developers, tech enthusiasts, and potential collaborators!
-
-<br>
-
-<a href="http://www.linkedin.com/in/shaylin-govender-827347343">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=200" alt="LinkedIn" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ShaylinGovender">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&width=200" alt="GitHub" height="50"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
   
