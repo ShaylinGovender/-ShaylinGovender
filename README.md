@@ -161,30 +161,32 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-<table>
-<tr>
-<td align="center">
+## Shaylin Govender's GitHub Stats
 
-<h2><span style="color: #00BFFF;">Shaylin Govender's GitHub Stats</span></h2>
+<br>
 
 <table>
 <tr>
-<td width="500" style="padding: 30px;">
+<td width="550">
 
-<p align="left" style="font-size: 16px; line-height: 2;">
-<span style="color: #FFD700;">★</span>  <span style="color: #FFFFFF;">Total Stars Earned:</span> <span style="color: #00BFFF;"><b>0</b></span><br>
-<span style="color: #00BFFF;">⏱</span>  <span style="color: #FFFFFF;">Total Commits (last year):</span> <span style="color: #00BFFF;"><b>406</b></span><br>
-<span style="color: #00BFFF;">⑂</span>  <span style="color: #FFFFFF;">Total PRs:</span> <span style="color: #00BFFF;"><b>39</b></span><br>
-<span style="color: #FFA500;">⚠</span>  <span style="color: #FFFFFF;">Total Issues:</span> <span style="color: #00BFFF;"><b>55</b></span><br>
-<span style="color: #00BFFF;">⚇</span>  <span style="color: #FFFFFF;">Contributed to (last year):</span> <span style="color: #00BFFF;"><b>2</b></span>
-</p>
+<br>
+
+⭐ **Total Stars Earned:** `0`
+
+⏱️ **Total Commits (last year):** `406`
+
+🔀 **Total PRs:** `39`
+
+⚠️ **Total Issues:** `55`
+
+📦 **Contributed to (last year):** `2`
+
+<br>
 
 </td>
-<td align="center" width="180" style="padding: 30px;">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="100"/>
-</td>
-</tr>
-</table>
+<td width="200" align="center">
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="GitHub Logo"/>
 
 </td>
 </tr>
