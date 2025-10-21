@@ -161,9 +161,9 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-## <span style="color: #00BFFF;">Shaylin Govender's GitHub Stats</span>
+<img src="https://img.shields.io/badge/Shaylin%20Govender's%20GitHub%20Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Header"/>
 
-<br>
+<br><br>
 
 <table>
 <tr>
@@ -171,22 +171,22 @@ Python, React Native, TypeScript, YOLO, PostgreSQL, OpenCV, TensorFlow, Node.js,
 
 <br>
 
-<span style="color: #FFD700;">★</span> <span style="color: #E0E0E0;">**Total Stars Earned:**</span> <span style="color: #00BFFF;">**0**</span>
+<img src="https://img.shields.io/badge/★_Total_Stars_Earned-0-FFD700?style=flat-square&labelColor=1e1e2e&color=FFD700"/>
 
-<span style="color: #00BFFF;">⏱</span> <span style="color: #E0E0E0;">**Total Commits (last year):**</span> <span style="color: #00BFFF;">**406**</span>
+<img src="https://img.shields.io/badge/⏱_Total_Commits_(last_year)-406-00BFFF?style=flat-square&labelColor=1e1e2e&color=00BFFF"/>
 
-<span style="color: #00BFFF;">⑂</span> <span style="color: #E0E0E0;">**Total PRs:**</span> <span style="color: #00BFFF;">**39**</span>
+<img src="https://img.shields.io/badge/⑂_Total_PRs-39-00BFFF?style=flat-square&labelColor=1e1e2e&color=00BFFF"/>
 
-<span style="color: #FFA500;">⚠</span> <span style="color: #E0E0E0;">**Total Issues:**</span> <span style="color: #00BFFF;">**55**</span>
+<img src="https://img.shields.io/badge/⚠_Total_Issues-55-FFA500?style=flat-square&labelColor=1e1e2e&color=FFA500"/>
 
-<span style="color: #00BFFF;">⚇</span> <span style="color: #E0E0E0;">**Contributed to (last year):**</span> <span style="color: #00BFFF;">**2**</span>
+<img src="https://img.shields.io/badge/⚇_Contributed_to_(last_year)-2-00BFFF?style=flat-square&labelColor=1e1e2e&color=00BFFF"/>
 
 <br>
 
 </td>
 <td width="150" align="center">
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub Logo"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub Logo"/>
 
 </td>
 </tr>
